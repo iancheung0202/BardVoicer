@@ -1,0 +1,17 @@
+{
+    "content_scripts": [
+      {
+        "js": ["script.js"],
+        "matches": ["https://bard.google.com/*"]
+      }
+    ],
+    "manifest_version": 3,
+    "name": "Bard Voicer",
+    "version": "1.0.0",
+    "description": "'Bard Voicer' is a Chrome extension that transforms your Google Bard chatbot conversations by converting text-based responses into spoken words.",
+    "icon": "favicon.png",
+    "action": {
+      "default_popup": "window.html",
+      "default_icon": "favicon.png"
+    }
+  }
