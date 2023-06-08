@@ -5,7 +5,7 @@ Bard Voicer is a work-in-progress unpublished Chrome extension that transforms y
 To install the Bard Voicer Chrome extension, ensure that you have Google Chrome browser installed on your computer.
 ##Installation Steps
 To manually install the Bard Voicer Chrome extension, follow the steps below:
-- Download the extension ZIP file from the GitHub repository. You can find the ZIP file under the "Releases" section or by clicking here.
+- Download the extension ZIP file from this GitHub repository. 
 - Extract the ZIP file to a convenient location on your computer.
 - Open Google Chrome and type chrome://extensions in the address bar. Press Enter.
 - On the "Extensions" page, enable the "Developer mode" toggle switch located at the top right corner of the page.
